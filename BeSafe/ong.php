@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <!-- Meta tags Obrigatórias -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="Css/style.css">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <title>BeSafe</title>
+  </head>
+  <body id="background">
+
+  <!-- Conteúdo do cabeçalho -->
+  <header>
+    <a href="index.php"><img src="Imagens/logo.png" alt="Logo Projeto BeSafe" id ="logo"></a>
+    <a href="https://www.ifms.edu.br/"><img src="Imagens/if.png" alt="Logo IF" id="logoIf" ></a>
+    <div class="container">
+      <img src="Imagens/titulo2.png" alt="" id="tittle">
+    </div>
+    <hr id="linha1">
+  </header>
+  
+  <section>
+  <h1 id="titart">Ongs</h1>
+  <div class="row  text-center" id="divartigos">
+    <div class="col-sm-6">
+      <div class="card" id="divong">
+        <div class="card-body">
+          <h5 class="card-title" id="titulorg">International Planned Parenthood Federation - IPPF</h5>
+          <p id="textorg">A IPPF é uma ONG global
+            que trabalha para promover serviços de saúde sexual e reprodutiva, incluindo
+            métodos contraceptivos, em diversos países. Eles oferecem informações, consultas,
+            métodos contraceptivos e testes para ISTs, de forma acessível e confidencial.</p>
+          <a href="https://www.plannedparenthood.org/" class="btn" id="botaoart">Saiba mais</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <div class="card" id="divong">
+        <div class="card-body">
+          <h5 class="card-title" id="tituloart">Marie Stopes International - MSI</h5>
+        <p id="textorg">A Marie Stopes International é uma ONG que se
+        dedica a fornecer serviços de planejamento familiar e saúde reprodutiva em todo o
+        mundo. Eles oferecem uma ampla gama de métodos contraceptivos, como pílulas
+        anticoncepcionais, dispositivos intrauterinos (DIUs), implantes contraceptivos, entre
+        outros.
+        </p>
+          <a href="https://www.msichoices.org/" class="btn" id="botaoart">Saiba mais</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <div class="card" id="divong">
+        <div class="card-body">
+          <h5 class="card-title" id="tituloart">Family Health International - FHI 360</h5>
+          <p id="textorg">O FHI 360 é uma organização global que
+            trabalha para melhorar a saúde e o bem-estar das pessoas em todo o mundo. Eles
+            desenvolvem programas e pesquisas sobre saúde sexual e reprodutiva, incluindo o
+            uso de métodos contraceptivos e a prevenção de ISTs. </p>
+          <a href="https://www.fhi360.org/" class="btn" id="botaoart">Saiba mais</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <div class="card" id="divong">
+        <div class="card-body">
+          <h5 class="card-title" id="tituloart">EngenderHealth</h5>
+          <p id="textorg">A IPPF é uma ONG global
+            que trabalha para promover serviços de saúde sexual e reprodutiva, incluindo
+            métodos contraceptivos, em diversos países. Eles oferecem informações, consultas,
+            métodos contraceptivos e testes para ISTs, de forma acessível e confidencial.</p>
+          <a href="https://www.engenderhealth.org/" class="btn" id="botaoart">Saiba mais</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col text-center">
+          <!-- Conteúdo do rodapé -->
+          <p>Website criado por Rhafaely, Diuly, Maria Luisa e Fabiana da turma 1142B, para a disciplina de Biologia 4 e Desenvolvimento Web 2</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+    <!-- JavaScript (Opcional) -->
+    <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  </body>
+</html>

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <!-- Meta tags Obrigatórias -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="Css/style.css">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <title>BeSafe - Como seria..</title>
+  </head>
+  <body id="background">
+
+  <!-- Conteúdo do cabeçalho -->
+  <header>
+    <a href="index.php"><img src="Imagens/logo.png" alt="Logo Projeto BeSafe" id ="logo"></a>
+    <a href="https://www.ifms.edu.br/"><img src="Imagens/if.png" alt="Logo IF" id="logoIf" ></a>
+    <div class="container">
+      <img src="Imagens/titulo2.png" alt="" id="tittle">
+    </div>
+    <hr id="linha1">
+  </header>
+
+  <main>
+
+  <section>
+   <br>
+   <h2 id="titulo">Um Brasil Transformado:</h2>
+  <h2 id="titulo">O impacto da educação sexual e acesso aos métodos contraceptivos na sociedade brasileira</h2>
+
+      <div id="texto1">
+
+      <p>Um Brasil onde todas as pessoas tivessem acesso à educação sexual abrangente, informações sobre ISTs e métodos contraceptivos teria um impacto significativo em diversos aspectos sociais e econômicos.</p>
+
+      <p>Em primeiro lugar, o acesso generalizado à educação sexual permitiria que os indivíduos recebessem informações precisas e atualizadas sobre prevenção de ISTs, métodos contraceptivos e práticas sexuais seguras. Isso contribuiria para a redução das taxas de infecções transmitidas sexualmente, como sífilis, gonorréia, HIV/AIDS e HPV, resultando em uma população mais saudável e com menor sobrecarga nos sistemas de saúde.</p>
+
+      <p>Além disso, a educação sexual adequada empoderaria as pessoas para tomar decisões informadas sobre sua saúde sexual e reprodutiva. Isso inclui a compreensão dos direitos sexuais e reprodutivos, o respeito ao consentimento, a promoção da igualdade de gênero e o combate à violência sexual. Essas habilidades e conhecimentos seriam fundamentais para o estabelecimento de relacionamentos saudáveis e consensuais.</p>
+
+      <p>Em termos de contracepção, o acesso generalizado a métodos contraceptivos eficazes e seguros permitiria às pessoas planejar quando e quantos filhos desejam ter. Isso teria impactos socioeconômicos positivos, pois possibilitaria que as pessoas assumissem maior controle sobre suas vidas reprodutivas. Com a possibilidade de planejar a família, as pessoas poderiam direcionar melhor seus recursos financeiros, educacionais e profissionais, promovendo o desenvolvimento pessoal e o bem-estar familiar.</p>
+
+      <p>Além disso, a disponibilidade e o acesso igualitário aos métodos contraceptivos poderiam reduzir significativamente as taxas de gravidez indesejada e, consequentemente, o número de mães adolescentes. Isso permitiria que as jovens concluíssem seus estudos, buscassem melhores oportunidades de emprego e rompessem o ciclo de pobreza, contribuindo para a redução das desigualdades socioeconômicas.</p>
+      
+      <p>No âmbito socioeconômico, a disseminação da educação sexual abrangente e o acesso aos métodos contraceptivos estariam intimamente ligados à melhoria da qualidade de vida das pessoas. Menos gravidezes indesejadas significariam uma menor dependência dos serviços sociais e de saúde, permitindo que os recursos públicos fossem direcionados para outras áreas prioritárias, como educação, infraestrutura e desenvolvimento social.</p>
+
+      <p>Em resumo, se todas as pessoas no Brasil tivessem acesso à educação sexual, informações sobre ISTs e métodos contraceptivos, veríamos uma redução nas taxas de infecções, uma melhoria na saúde sexual e reprodutiva da população, uma maior autonomia das pessoas na tomada de decisões sobre suas vidas reprodutivas e uma redução nas desigualdades socioeconômicas. Isso resultaria em um país mais saudável, igualitário e próspero.</p>
+
+      <br>
+      </div>
+
+      <h2 id="titulo">O papel transformador das ONGs na promoção da saúde sexual e prevenção de ISTs</h2>
+
+      <div id="texto1">
+        <p>As organizações não governamentais (ONGs) desempenham um papel fundamental na promoção da saúde sexual, na prevenção de Infecções Sexualmente Transmissíveis (ISTs) e no acesso a métodos contraceptivos. Elas são peças-chave na luta por uma sociedade mais informada, igualitária e saudável.</p>
+
+        <p>Uma das principais contribuições das ONGs é fornecer serviços diretos à comunidade. Elas oferecem aconselhamento, testes de ISTs, distribuição de preservativos e outros métodos contraceptivos, além de encaminhamento para serviços médicos especializados. Ao garantir o acesso a esses recursos, as ONGs ajudam a prevenir a propagação de ISTs e promovem a saúde sexual e reprodutiva. Além de desempenharem um papel vital na conscientização sobre ISTs e métodos contraceptivos.</p>
+
+        <p>As ONGs também têm a capacidade de alcançar grupos marginalizados e comunidades em situação de vulnerabilidade. Elas trabalham em áreas urbanas e rurais, atendendo a populações de baixa renda, jovens, migrantes, LGBTQIA+ entre outros grupos em situação de vulnerabilidade.</p>
+
+        <p>Em suma, as ONGs são agentes de mudança na promoção da saúde sexual e reprodutiva. Seu trabalho abrangente vai além da assistência direta, envolvendo educação, conscientização, defesa de políticas e combate ao estigma. Ao ajudar a prevenir as ISTs, fornecer acesso a métodos contraceptivos e promover a educação sexual, as ONGs desempenham um papel vital na construção de uma sociedade mais saudável, informada e igualitária. Seu compromisso e esforços são essenciais para melhorar a qualidade de vida das pessoas e para avançar na busca por uma saúde sexual acessível a todos.</p>
+
+        <p>Reconhecendo a importância vital dessas organizações na promoção da educação sexual tanto no Brasil quanto no mundo inteiro, decidimos apresentar alguns exemplos de ONGs que são dedicadas a esse trabalho. Acreditamos que o apoio a essas ONGs é muito importante para que a educação sexual e a saúde sexual chegue cada vez a mais pessoas. Essas organizações atuam incansavelmente para fornecer informações, orientação e apoio a comunidades em todo o mundo. Através de seus programas educacionais, engajamento comunitário e defesa de políticas públicas, essas ONGs estão fazendo a diferença ao capacitar as pessoas a tomar decisões informadas sobre sua saúde e promovendo uma sociedade mais saudável e consciente. Para saber mais, basta clicar no botão abaixo.</p>
+        
+
+        </div>
+
+  </section>
+
+  <section>
+
+<div class="media text-center" id="divacervo">
+<div class="media-body">
+<h5 class="mt-0" id="acervotitulo">ONGs</h5>
+<p id="textacervo">Essa é página dedicada a apresentar organizações não governamentais (ONGs) que desempenham um papel fundamental na promoção da saúde sexual, prevenção de Infecções Sexualmente Transmissíveis (ISTs) e acesso a métodos contraceptivos. Nesta página, você encontrará informações sobre algumas das ONGs comprometidas em fornecer serviços, educação e apoio relacionados a essas questões no Brasil.</p>
+<a href="ong.php"><button type="button" class="btn" id="botacervo">Quero saber mais!</button></a>
+</div>
+</div>
+
+</section>
+
+  <!-- <section class="d-flex justify-content-center align-items-center">
+  <div class="container">
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" id="divcarrosselall">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          
+          <div class="col-sm-30 mx-auto">
+            <div class="card" id="divcarrossel">
+              <div class="card-body">
+                <h5 class="card-title" id="titulocarrossel">Como seria se...</h5>
+                <p class="card-text" id="textcarrossel">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultrices pretium ullamcorper. Aliquam ullamcorper mollis aliquet. In scelerisque pharetra odio in egestas.</p>
+                <a href="#" class="btn" id="botaocarrossel">Visitar</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="col-sm-30 mx-auto">
+            <div class="card" id="divcarrossel">
+              <div class="card-body">
+                <h5 class="card-title" id="titulocarrossel">Como seria se...</h5>
+                <p class="card-text" id="textcarrossel">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultrices pretium ullamcorper. Aliquam ullamcorper mollis aliquet. In scelerisque pharetra odio in egestas.</p>
+                <a href="#" class="btn" id="botaocarrossel">Visitar</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="col-sm-30 mx-auto">
+            <div class="card" id="divcarrossel">
+              <div class="card-body">
+                <h5 class="card-title" id="titulocarrossel">Como seria se...</h5>
+                <p class="card-text" id="textcarrossel">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultrices pretium ullamcorper. Aliquam ullamcorper mollis aliquet. In scelerisque pharetra odio in egestas.</p>
+                <a href="#" class="btn" id="botaocarrossel">Visitar</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev" id="seta">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Anterior</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next" id="seta">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Próximo</span>
+      </a>
+    </div>
+  </div>
+</section> -->
+    
+
+  </main>
+
+    <!-- JavaScript (Opcional) -->
+    <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col text-center">
+          <!-- Conteúdo do rodapé -->
+          <p>Website criado por Rhafaely, Diuly, Maria Luisa e Fabiana da turma 1142B, para a disciplina de Biologia 4 e Desenvolvimento Web 2</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+  </body>
+</html>

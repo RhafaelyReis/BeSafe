@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <!-- Meta tags Obrigatórias -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="Css/style.css">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <title>BeSafe - Métodos Contraceptivos</title>
+  </head>
+  <body id="background">
+
+  <!-- Conteúdo do cabeçalho -->
+  <header>
+    <a href="index.php"><img src="Imagens/logo.png" alt="Logo Projeto BeSafe" id ="logo"></a>
+    <a href="https://www.ifms.edu.br/"><img src="Imagens/if.png" alt="Logo IF" id="logoIf" ></a>
+    <div class="container">
+      <img src="Imagens/titulo2.png" alt="" id="tittle">
+    </div>
+    <hr id="linha1">
+  </header>
+
+  <main>
+
+    <section>
+      <h1 id="titulo">Métodos Contraceptivos</h1>
+      <h2 id="titulo">Divisão dos métodos contraceptivos</h2>
+
+      <div id="texto1">
+        <p> Os métodos contraceptivos se dividem em reversíveis e definitivos. Entre os métodos reversíveis podemos citar:</p>
+
+        <p id="espaco">● Métodos comportamentais ou naturais;</p>
+        <p id="espaco">● Métodos de barreira;</p>
+        <p id="espaco">● Dispositivo intrauterino (DIU);</p>
+        <p id="espaco">● Métodos hormonais;</p>
+        <p id="espaco">● Método de contracepção de emergência.</p>
+
+        <p>Já os definitivos são os métodos cirúrgicos (retirada do útero, ovários ou testículos) ou ou esterilização (ligadura das tubas e a vasectomia). Porém, nesse texto, onosso foco serão os métodos reversíveis.</p>
+
+        <p>Para utilizar esses métodos a mulher precisa aprender a identificar o início e o fim do período fértil do seu ciclo menstrual, desta forma o casal pode aprender a evitar a gravidez.</p>
+        
+        <br>
+
+        <h2 id="titulo">Métodos Contraceptivos Comportamentais</h2>
+
+        <p>Em todos esses métodos a contracepção se dá pela abstinência sexual nos dias férteis. Contudo, ao optar por não evitar as relações sexuais no período fértil é necessário fazer uso de preservativos.</p>
+
+        <br>
+        
+        <h3 id="titulo2">Calendário (tabelinha)</h3>
+
+        <p>Neste método, a mulher marca em um calendário os dias que correspondem ao início e ao término do período fértil. O número de dias depende da duração dos ciclos menstruais anteriores. Hoje em dia essa prática é facilitada por meio de aplicativos de controle do ciclo menstrual.</p>
+
+        <br>
+
+        <h3 id="titulo2">Muco cervical (Billings)</h3>
+
+        <p>Neste método, quando a mulher nota ou sente o muco cervical, ela pode estar no período fértil. Assim, é comum que a mulher tenha a sensação de que a vagina está mais úmida</p>
+
+        <br>
+
+        <h3 id="titulo2">Temperatura corporal basal</h3>
+
+        <p>Neste método, a temperatura do corpo da mulher em repouso sobe levemente no período após a ovulação, que é o momento no qual ela pode engravidar. Sendo assim, para identificar esse momento, é preciso que a mulher verifique e registre a sua temperatura diariamente, sempre no mesmo horário, de preferência antes de se levantar da cama, e a temperatura a ser medida é a temperatura retal, quando esta aumenta em 0.5 grau é o dia da ovulação, ou seja, deve-se evitar as relações por 3 dias</p>
+
+        <br>
+
+        <h3 id="titulo2">Sintotérmicos</h3>
+
+        <p>Este método, consiste no uso combinado dos três métodos descritos acima, além de outros sinais que podem contribuir para detectar a ovulação de modo mais preciso, como os testes de ovulação vendidos em farmácia, por exemplo. Geralmente utiliza-se a tabelinha e o muco cervical para estimar o início do período fértil e a temperatura basal para determinar o final.</p>
+
+        <br>
+        <br>
+
+        <h2 id="titulo">Métodos Contraceptivos de Barreira</h2>
+
+        <p>Os contraceptivos de barreira incluem espermicidas vaginais (na forma de espuma, cremes e supositórios), preservativos, diafragmas, capuzes cervicais e esponjas contraceptivas.</p>
+
+        <br>
+
+        <h3 id="titulo2">Espermicidas vaginais</h3>
+
+        <p>Este é um contraceptivo químico aplicado na vagina que diminui a capacidade de fecundação dos espermatozóides. Pode ser apresentado sob forma de creme, espuma e também comprimidos vaginais.</p>
+
+        <br>
+
+        <h3 id="titulo2">Preservativos</h3>
+
+        <p>Os preservativos, condom ou “camisinhas” como são popularmente conhecidos, além de prevenir a gravidez servem também de proteção contra doenças sexualmente transmissíveis, incluindo a infecção pelo HIV. O preservativo masculino deve ser colocado antes da penetração; a ponta deve ser estendida cerca de 1 cm além do pênis para armazenar o esperma. Já o preservativo feminino é uma bolsa com um anel interno e outro externo; o interno é inserido na vagina, e o anel externo permanece fora cobrindo o períneo. O preservativo feminino pode ser colocado algumas horas antes da relação sexual.</p>
+
+        <br>
+
+        <h3 id="titulo2">Diafragma</h3>
+
+        <p>Este é uma capa de borracha flexível e de formato circular que cobre o colo do útero, impedindo a passagem dos espermatozoides. Deve ser sempre associado com a utilização de espermicidas.</p>
+
+        <br>
+
+        <h3 id="titulo2">Capuz cervical</h3>
+
+        <p>É muito parecido com o diafragma, porém, menor e mais rígido.</p>
+
+        <br>
+
+        <h3 id="titulo2">Esponjas contraceptivas</h3>
+
+        <p>Possui formato de disco é ligeiramente côncavo e flexível. Feito de espuma de poliuretano seu tamanho é pouco maior do que um absorvente interno. Possui uma alça para facilitar a colocação e remoção. Dentro da esponja existe um espermicida que é liberado ao longo de 24 h no canal vaginal.</p>
+
+        <br>
+        <br>
+
+        <h2 id="titulo">Dispositivo Intrauterino (DIU)</h2>
+
+        <p>Os dispositivos intrauterinos são artefatos de polietileno aos quais podem ser adicionados cobre, prata ou hormônios que, como o próprio nome sugere são inseridos na cavidade uterina, exercem sua função contraceptiva.</p>
+
+        <p>Sua atuação como contraceptivo ocorre impedindo a fecundação e implantação, uma vez que tornam mais difícil a passagem do espermatozóide pelo aparelho reprodutivo feminino, reduzindo a possibilidade de fertilização do óvulo e tornando o endométrio hostil à recepção do embrião.</p>
+
+        <p>Para facilitar e considerando serem ambos dispositivos intrauterinos, unimos a explicação sobre o DIU de cobre/prata e o DIU hormonal.</p>
+
+
+        <h3 id="titulo2">Tipos de DIU</h3>
+
+        <p id="espaco">● DIU de cobre/prata: é feito de polietileno e revestido com filamentos e/ou anéis de cobre e/ou prata. Atualmente os modelos TCu-380 A e MLCu-375 são os mais usados. Ambos estão disponíveis no Sistema Único de Saúde (SUS).</p>
+        <p id="espaco">● DIU hormonal: também é feito de polietileno e libera, continuamente, pequenas quantidades de levonorgestrel, um tipo de progesterona sintética.</p>
+ 
+        <p>Os dispositivos intrauterinos podem ser inseridos a qualquer momento durante o ciclo menstrual, contudo, é preciso ter certeza de que a mulher não está grávida, que não apresenta má formação uterina e não existam sinais de infecção. Como pode ser um procedimento doloroso existe a possibilidade de realização de anestesia local (diretamente no colo ) ou anestesia por sedação. Normalmente em pacientes que já tiveram uma gravidez a dor é quase inexistente. E pode ser colocado em pacientes que nunca gostaram.</p>
+
+        <p>Para utilizar esses métodos a mulher precisa aprender a identificar o início e o fim do período fértil do seu ciclo menstrual, desta forma o casal pode aprender a evitar a gravidez.</p>
+
+        <br>
+        <br>
+
+        <h2 id="titulo">Métodos hormonais</h2>
+
+        <p>Os métodos hormonais utilizam basicamente o estrogênio e as progestinas (medicamentos semelhantes ao hormônio progesterona), impedindo principalmente a liberação dos óvulos pelos ovários ou mantendo a densidade do muco no colo do útero elevada para que os espermatozóides não atravessem do colo para o útero. É, então, dessa forma que os métodos hormonais evitam que o óvulo seja fertilizado.</p>
+
+        <p>Os hormônios contraceptivos podem ser:</p>
+
+        <p id="espaco">● Tomados por via oral (pílulas);</p>
+
+        <p id="espaco">● Colocados na vagina (anéis vaginais)</p>
+
+        <p id="espaco">● Aplicados na pele (adesivo);</p>
+
+        <p id="espaco">● Implantados sob a pele;</p>
+
+        <p id="espaco">● Injetados no músculo.</p>
+
+
+        <br>
+        <br>
+
+        <h2 id="titulo">Contraceptivos orais (pílulas)</h2>
+
+        <p>Os contraceptivos orais, muito conhecidos como pílula anticoncepcional ou apenas “pílula”, contém hormônios combinados, seja uma combinação de progestina e estrogênio, ou uma progestina sozinha.</p>
+
+        <p>Basicamente a mulher deve tomar um comprimido ao dia, sempre no mesmo horário até o fim da cartela, quando há uma pausa de alguns dias que varia de acordo com o anticoncepcional escolhido. Hoje, existem versões com 21, 22, 24 e 28 dias. Para saber como tomar, como se dá a pausa no uso do anticoncepcional.</p>
+        
+        <br>
+        <br>
+
+        <h2 id="titulo">Contraceptivos colocados na vagina (anéis vaginais)</h2>
+
+        <p>Os anéis vaginais são objetos de silicone que a mulher insere na vagina. Eles liberam hormônios lentamente para prevenção da gravidez. O anel deve ficar no lugar por três semanas contínuas. Na sequência, a mulher deve retirá-lo e ficar uma semana sem usar quando a menstruação ocorrer. Após esse intervalo, um novo deve ser colocado.</p>
+
+        <br>
+        <br>
+
+        <h2 id="titulo">Contraceptivos aplicados na pele (adesivo)</h2>
+
+        <p>Os adesivos anticoncepcionais lembram muito os curativos, o adesivo é colado no corpo da mulher e os hormônios são absorvidos pela pele. Sua utilização lembra a do anel vaginal: três semanas com e uma semana sem o adesivo.</p>
+
+        <p>Porém, a troca do adesivo deve ser feita uma vez por semana. Assim, ele deve ser deixado em um lugar por uma semana, então removido e substituído por um novo, que deve ser colocado em um lugar diferente da pele.</p>
+
+        <br>
+        <br>
+
+        <h2 id="titulo">Contraceptivos implantados sob a pele </h2>
+
+        <p>Um implante contraceptivo é um pequeno bastão que contém progesterona inserido na região interna do braço, acima do cotovelo ou região de flanco perto dos glúteos.</p>
+
+        <p>O procedimento para inserção do implante é rápido e feito com anestesia local. O implante libera o hormônio lentamente na corrente sanguínea e é eficaz por até 3 anos. Para retirada é feita uma nova anestesia no local, geralmente não são necessários pontos na pele.</p>
+
+        <br>
+        <br>
+
+        <h2 id="titulo">Contraceptivos injetáveis</h2>
+
+        <p>As conhecidas injeções anticoncepcionais são um método contraceptivo que traz progesterona ou associação de estrogênios e progesterona, com doses de longa duração. A injeção pode ser mensal ou trimestral e, a depender do tipo, pode ser aplicada no músculo (braço ou nádega) ou sob a pele.</p>
+
+        <br>
+        <br>
+
+        <h2 id="titulo">Método de emergência (pílula do dia seguinte)</h2>
+
+        <p>A pílula do dia seguinte é um método contraceptivo de emergência, ou seja, não deve ser utilizado de modo contínuo como a pílula convencional.</p>
+
+        <p>Sua utilização é indicada para evitar uma possível gravidez em casos de: esquecimento do anticoncepcional, principalmente se tiver ocorrido mais de uma vez na mesma cartela, relação sexual desprotegida ou falha do preservativo (camisinha) e também em caso de violência sexual.</p>
+
+        <p>Por se tratar de uma medida emergencial, o tempo é crucial para que o método funcione. Logo, a medicação ainda pode ser tomada em até 72 horas depois da relação sexual desprotegida. Contudo, a efetividade já apresenta queda após 12 horas.</p>
+
+        <br>
+
+        <!-- <a href="https://repositorio.ufmg.br/bitstream/1843/BUBD-A79HA8/1/monografia_luiz_carlos_de_almeida.pdf" target="_blank" class="btn" id="fonte">Clique aqui para acessar a fonte</a> -->
+
+        </div>
+
+    </section>
+
+    <main>
+
+  </main>
+
+    <!-- JavaScript (Opcional) -->
+    <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col text-center">
+          <!-- Conteúdo do rodapé -->
+          <p>Website criado por Rhafaely, Diuly, Maria Luisa e Fabiana da turma 1142B, para a disciplina de Biologia 4 e Desenvolvimento Web 2</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  </body>
+</html>

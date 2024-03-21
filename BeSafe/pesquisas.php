@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <!-- Meta tags Obrigatórias -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="Css/style.css">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <title>BeSafe - Pesquisas</title>
+  </head>
+  <body id="background">
+
+  <!-- Conteúdo do cabeçalho -->
+  <header>
+    <a href="index.php"><img src="Imagens/logo.png" alt="Logo Projeto BeSafe" id ="logo"></a>
+    <a href="https://www.ifms.edu.br/"><img src="Imagens/if.png" alt="Logo IF" id="logoIf" ></a>
+    <div class="container">
+      <img src="Imagens/titulo2.png" alt="" id="tittle">
+    </div>
+    <hr id="linha1">
+  </header>
+
+  <main>
+
+    <section id="pesquisas">
+        <h1 id="titulo">Pesquisas científicas na área</h1>
+        <h3 id="titulo2">Métodos Contraceptivos: Uma revisão bibliográfica</h2>
+
+        <div id="texto1">
+        <p>    A realidade da contracepção para as mulheres brasileiras tem gerado
+        diversas discussões nos últimos anos, abordando desde desigualdades sociais -
+        uma vez que as mulheres enfrentam uma situação de desigualdade de direitos,
+        oportunidades e recursos financeiros - até aspectos políticos, uma vez que os
+        programas de saúde direcionados a elas não estão efetivamente implementados
+        (BERQUÓ et al., 2003).</p>
+
+        <p>    Desde a chamada revolução sexual, observa-se um aumento da prática de
+        sexo sem reservas entre os jovens, independentemente da classe social, o que
+        indica uma tendência generalizada (PIROTTA & SCHOR, 2007). No entanto, a
+        negligência na prática da contracepção e prevenção de doenças sexualmente
+        transmissíveis tem levado jovens adultas a correrem o risco de contrair o HIV/AIDS
+        e outras doenças sexualmente transmissíveis, além de enfrentarem gravidezes não
+        planejadas (AQUINO et al., 2008).</p>
+
+        <p>    O conhecimento sobre métodos anticoncepcionais pode ajudar as mulheres a
+        escolherem o método mais adequado ao seu comportamento sexual e às suas
+        condições de saúde, além de utilizarem o método escolhido corretamente. Esse
+        conhecimento deve estar relacionado à prevenção de gravidezes indesejadas,
+        abortos provocados, mortalidade materna e outros problemas de saúde
+        relacionados à saúde reprodutiva (VIEIRA et al., 2002).</p>
+
+        <p>    A contracepção desempenha um papel fundamental na saúde reprodutiva, e
+        o uso inadequado dos métodos pode acarretar vários problemas de saúde para as
+        mulheres, como gravidezes indesejadas, gravidezes na adolescência, abortos
+        ilegais e até mesmo aumento da mortalidade materna. Além disso, é importante
+        considerar as consequências de uma cesariana realizada exclusivamente para
+        realizar uma laqueadura tubária, o que pode acarretar riscos potenciais de
+        morbidade (física e psicológica) e até mesmo de mortalidade relacionados a essas
+        intervenções no processo de parto (MARTINS-COSTA & RAMOS, 2005).</p>
+
+        <p>    Entre as idades de 29 a 35 anos, a possibilidade de uma mulher engravidar é
+        de aproximadamente 85%, o que leva as mulheres que enfrentam gravidezes
+        indesejadas e abortos a procurarem opções contraceptivas altamente eficazes
+        (PENTEADO et al., 2001). Nos últimos vinte anos, a prevalência da esterilização
+        feminina tem aumentado e atualmente é o método anticoncepcional mais comum
+        entre as mulheres em idade fértil, como mostrado pela Pesquisa Nacional de
+        Demografia e Saúde (PNDS) realizada no Brasil, na qual 52,3% das mulheres são
+        esterilizadas (BEMFAM, 2003; PENTEADO et al., 2001).</p>
+
+        <p>    Os principais motivos para a realização da laqueadura são o desejo de não
+        ter mais filhos, a falta de condições para criá-los ou já ter o número ideal de filhos
+        (CARVALHO et al., 2004). Esses dados revelam a preocupação das mulheres com o
+        número de filhos e o fardo que elas carregam em relação à responsabilidade pela
+        concepção e pelo controle da fertilidade do casal</p>
+
+        <a href="https://repositorio.ufmg.br/bitstream/1843/BUBD-A79HA8/1/monografia_luiz_carlos_de_almeida.pdf" target="_blank" class="btn" id="fonte">Clique aqui para acessar a fonte</a>
+
+
+        </div>
+
+    </section>
+
+    <hr id="linha3">
+
+    <section id="pesquisas">
+        <h3 id="titulo2">Cientistas desenvolvem contraceptivo masculino que impedem</h2>
+        <h3 id="titulo2">que espermatozoides nadem</h2>
+
+        <div id="texto1">
+        
+        <p>Em um estudo científico publicado na terça-feira (14), pesquisadores
+        mostraram estar mais perto de uma pílula anticoncepcional masculina — no caso,
+        trata-se de um medicamento não hormonal, usado sob demanda e que funciona
+        impedindo o espermatozóide de nadar. Testes em camundongos sugerem que a
+        pílula consegue manter os espermatozoides disfuncionais por algumas horas, o
+        suficiente para impedi-los de alcançar o óvulo, conforme mostra o estudo na <a href="https://www.nature.com/articles/s41467-023-36119-6" target="_blank" class="btn" id="fonte">revista científica Nature Communications</a>. Muitos outros testes estão previstos e são
+        necessários para que o projeto avance. Antes de ensaios serem realizados com
+        pessoas, planeja-se testes em coelhos. A ideia é que, eventualmente, os usuários
+        possam tomar a pílula uma hora antes do sexo.</p>
+
+        <p>Efeito temporário</p>
+
+        <p>Ao contrário da pílula anticoncepcional feminina, o novo medicamento
+        masculino não envolve hormônios.Segundo os cientistas responsáveis pelo projeto,
+        essa é uma das vantagens dele: não seria necessário cortar a testosterona e nem
+        haveria efeitos colaterais por conta de alterações hormonais.
+        Em vez disso, o interruptor da "natação do espermatozoide" é uma proteína de
+        sinalização celular chamada adenilil ciclase solúvel. A pílula masculina experimental
+        bloqueia a ação dessa enzima.</p>
+
+        <p>No estudo inicial em camundongos, financiado pelos Institutos Nacionais de
+        Saúde dos EUA, uma única dose do medicamento, chamado TDI-11861, imobilizou
+        o espermatozoide antes, durante e depois do sexo.</p>
+
+        <p>O efeito durou cerca de três horas e, em 24 horas, parecia ter desaparecido
+        completamente. Uma das autoras do estudo, Melanie Balbach, do centro de
+        pesquisas Weill Cornell Medicine, em Nova York, disse que o projeto se mostrou
+        promissor por ser um anticoncepcional reversível e fácil de usar. Mas é importante
+        lembrar que o anticoncepcional não protegeria contra infecções sexualmente
+        transmissíveis — para isso, os preservativos seguem necessários.</p>
+
+        <p>Não envolvido no estudo, Allan Pacey, professor de andrologia da
+        Universidade de Sheffield, comemorou os resultados.</p>
+
+        <p>"Há uma necessidade premente de um contraceptivo oral eficaz e reversível para
+        homens e, embora muitas abordagens diferentes tenham sido testadas ao longo dos
+        anos, nenhuma chegou até agora ao mercado", lembra Pacey.</p>
+
+        <p>“A abordagem descrita aqui, eliminando uma enzima-chave para o movimento do
+        espermatozóide, é uma ideia realmente nova. O fato de ser capaz de agir e ser
+        revertido tão rapidamente é realmente muito empolgante”, continuou o especialista.
+        “Se os testes em camundongos puderem ser replicados em humanos com o mesmo
+        grau de eficácia, então esta pode ser a abordagem contraceptiva masculina que
+        estamos procurando”.</p>
+        <a href="https://www.bbc.com/portuguese/articles/cld7l16lxz9o" target="_blank" class="btn" id="fonte">Clique aqui para acessar a fonte</a>
+        </div>
+
+    </section>
+
+  </main>
+
+    <!-- JavaScript (Opcional) -->
+    <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col text-center">
+          <!-- Conteúdo do rodapé -->
+          <p>Website criado por Rhafaely, Diuly, Maria Luisa e Fabiana da turma 1142B, para a disciplina de Biologia 4 e Desenvolvimento Web 2</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  </body>
+</html>

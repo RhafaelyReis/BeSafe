@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <!-- Meta tags Obrigatórias -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="Css/style.css">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <title>BeSafe - A realidade</title>
+  </head>
+  <body id="background">
+
+  <!-- Conteúdo do cabeçalho -->
+  <header>
+    <a href="index.php"><img src="Imagens/logo.png" alt="Logo Projeto BeSafe" id ="logo"></a>
+    <a href="https://www.ifms.edu.br/"><img src="Imagens/if.png" alt="Logo IF" id="logoIf" ></a>
+    <div class="container">
+      <img src="Imagens/titulo2.png" alt="" id="tittle">
+    </div>
+    <hr id="linha1">
+  </header>
+
+  <!-- Apresentação do Projeto -->
+  <main>
+
+  <section>
+   <br>
+  <h2 id="titulo">Educação sexual no Brasil e o combate à violência sexual de crianças e adolescentes</h2>
+
+      <div id="texto1">
+
+      <p>Segundo dados do <a href="https://forumseguranca.org.br/wp-content/uploads/2022/06/anuario-2022.pdf?v=4" id="fonte">Anuário Brasileiro de Segurança Pública 2022</a>, em 2021 foram registrados 45.994 casos de estupro de vulnerável no Brasil, sendo 61,3% cometidos contra meninas menores de 13 anos.</p>
+
+      <p>A educação sexual nas escolas, é crucial e de fato uma grande aliada ao combate à violência sexual infantil, assim como lembra Luciana Temer para o Anuário Brasileiro de Segurança Pública 2022, onde ela diz que “A escola pode ajudar (e já ajuda) na identificação e denúncia, mas, sobretudo, na prevenção. Muitas vezes o abusador se aproveita da ignorância da criança e, se ela tiver consciência, dependendo da situação, pode mesmo evitar que o abuso ocorra.”</p>
+
+      <p>De acordo com o <a href="https://www.cenpec.org.br/noticias/maioria-da-populacao-defende-educacao-sexual-e-igualdade-de-genero-nas-escolas#:~:text=Popula%C3%A7%C3%A3o%20defende%20educa%C3%A7%C3%A3o%20sexual%20nas%20escolas&text=Novos%20dados%20da%20pesquisa%20nacional%20Educa%C3%A7%C3%A3o%2C%20Valores%20e%20Direitos%20mostram,prevenirem%20contra%20o%20abuso%20sexual" id="fonte">Centro de Estudos e Pesquisas em Educação, Cultura e Ação Comunitária - Cenpec</a>, pelos dados da <a href="https://www.cenpec.org.br/pesquisa/pesquisa-educacao-valores-e-direitos" id="fonte">pesquisa nacional Educação, Valores e Direitos</a>, 91% da população concorda que a educação sexual ajuda crianças e adolescentes a se prevenirem contra o abuso sexual, além disso, 96% defendem que as escolas devem oferecer informações sobre doenças sexualmente transmissíveis e como preveni-las, sete em cada dez acreditam que a instituição de ensino está mais preparada que os pais para explicar temas como puberdade e sexualidade.</p>
+
+      <p>Uma publicação da <a href="https://www.childhood.org.br/educacao-sexual-para-a-prevencao-do-abuso-sexual-de-criancas-e-adolescentes/" id="fonte">Childhood Brasil</a> fornece informações sobre a relação da educação sexual e a prevenção do abuso sexual de crianças e adolescentes, conceitos da educação sexual apropriados para cada faixa etária além de apresentar exemplos de conteúdos didáticos para “ajudar no diálogo com crianças e adolescentes”</p>
+      
+      <br>
+      </div>
+
+      <!-- <h1 id="titulo">Métodos Contraceptivos</h1> -->
+      <h2 id="titulo">Quantidade de pessoas infectadas por ISTs no Brasil</h2>
+
+      <div id="texto1">
+        <p>De acordo com dados da <a href="https://www.paho.org/pt/noticias/6-6-2019-cada-dia-ha-1-milhao-novos-casos-infeccoes-sexualmente-transmissiveis-curaveis" id="fonte">Organização Pan-Americana da Saúde - PAHO</a> (06 de junho de 2019), conforme dados divulgados pela Organização Mundial da Saúde - OMS, a cada dia, há mais de 1 milhão de novos casos de infecções sexualmente transmissíveis (ISTs) curáveis entre pessoas de 15 a 45 anos, o equivalente a mais de 376 milhões de novos casos anuais.</p>
+
+        <p> Cerca de 1 milhão de pessoas contraíram infecções sexualmente transmissíveis no Brasil em 2019. Dados levantados pelo IBGE em parceria com o Ministério da Saúde apontam que 0,6% da população com 18 anos ou mais afirmou ter diagnóstico com este tipo de doença. A sífilis é o caso mais gritante: foram 158 mil notificações da doença em 2018, levando a uma taxa de 75,8 casos para cada 100 mil habitantes — em 2017, eram 59,1 casos/100 mil habitantes.</p>
+        
+        <a href="https://www.gov.br/aids/pt-br/centrais-de-conteudo/boletins-epidemiologicos"><h5 id="fonte">Boletim Epidemiológico com atualizações e dados</h5></a>
+
+        <!-- <h2 id="titulo">Métodos Contraceptivos Comportamentais</h2> -->
+
+        </div>
+
+  </section>
+
+  <section>
+
+<div class="media text-center" id="divacervo">
+<div class="media-body">
+<h5 class="mt-0" id="acervotitulo">Saiba mais</h5>
+<p id="textacervo">Aqui você encontrará informações confiáveis e atualizadas para ajudá-lo a se proteger e tomar decisões informadas sobre sua saúde sexual. Abordamos desde as ISTs até os diferentes métodos contraceptivos disponíveis. Nossa missão é promover a conscientização e prevenir a propagação de infecções sexualmente transmissíveis e gravidezes indesejadas. Navegue pelo nosso conteúdo para obter conhecimentos essenciais sobre esses assuntos e cuide da sua saúde sexual de forma responsável.</p>
+<a href="saibamais.php"><button type="button" class="btn" id="botacervo">Quero saber mais!</button></a>
+</div>
+</div>
+
+</section>
+
+  <!-- <section class="d-flex justify-content-center align-items-center">
+  <div class="container">
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" id="divcarrosselall">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          
+          <div class="col-sm-30 mx-auto">
+            <div class="card" id="divcarrossel">
+              <div class="card-body">
+                <h5 class="card-title" id="titulocarrossel">Como seria se...</h5>
+                <p class="card-text" id="textcarrossel">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultrices pretium ullamcorper. Aliquam ullamcorper mollis aliquet. In scelerisque pharetra odio in egestas.</p>
+                <a href="#" class="btn" id="botaocarrossel">Visitar</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="col-sm-30 mx-auto">
+            <div class="card" id="divcarrossel">
+              <div class="card-body">
+                <h5 class="card-title" id="titulocarrossel">Como seria se...</h5>
+                <p class="card-text" id="textcarrossel">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultrices pretium ullamcorper. Aliquam ullamcorper mollis aliquet. In scelerisque pharetra odio in egestas.</p>
+                <a href="#" class="btn" id="botaocarrossel">Visitar</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="col-sm-30 mx-auto">
+            <div class="card" id="divcarrossel">
+              <div class="card-body">
+                <h5 class="card-title" id="titulocarrossel">Como seria se...</h5>
+                <p class="card-text" id="textcarrossel">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultrices pretium ullamcorper. Aliquam ullamcorper mollis aliquet. In scelerisque pharetra odio in egestas.</p>
+                <a href="#" class="btn" id="botaocarrossel">Visitar</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev" id="seta">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Anterior</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next" id="seta">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Próximo</span>
+      </a>
+    </div>
+  </div>
+</section> -->
+
+    <section>
+
+    <div class="media text-center" id="divacervo">
+    <div class="media-body">
+    <h5 class="mt-0" id="acervotitulo">Faça um teste para saber o seu nível de conhecimento sobre o assunto</h5>
+    <a href="questionario.php"><button type="button" class="btn" id="botacervo">Começar questionário</button></a>
+    </div>
+    </div>
+
+    </section>
+
+    
+
+  </main>
+
+    <!-- JavaScript (Opcional) -->
+    <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col text-center">
+          <!-- Conteúdo do rodapé -->
+          <p>Website criado por Rhafaely, Diuly, Maria Luisa e Fabiana da turma 1142B, para a disciplina de Biologia 4 e Desenvolvimento Web 2</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+  </body>
+</html>
