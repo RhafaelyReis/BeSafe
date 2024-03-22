@@ -365,7 +365,6 @@ footer{
 }
 
 #final-da-pagina{
-    position: fixed; /* Garante que o rodapé permaneça no final da página */
     bottom: 0; /* Alinha o rodapé à parte inferior da página */
     width: 100%
 }
