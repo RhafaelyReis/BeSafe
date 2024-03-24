@@ -9,19 +9,21 @@
     height: 80px;
     float: left;
     vertical-align: top;
-    margin-left: 60px;
+    margin: 10px 0px 0px 20px;
+    position: fixed;
+    z-index: 9999;
 }
 
 #logoIf{
     width: 80px;
     height: 80px;
     float: right;
-    margin-right: 60px;
+    margin: 10px 0px 0px 20px;
 }
 
 #linha1{
     clear: both;
-    margin: 10px 200px 50px 200px;
+    margin: 10px 250px 50px 250px;
     border: 2px solid #ffdbc3;
 }
 
